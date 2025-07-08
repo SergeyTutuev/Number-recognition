@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "First_Neiron_Graph", "First_Neiron_Graph\First_Neiron_Graph.pyproj", "{605225FB-02A1-40DC-AC9E-788028B7CAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605225FB-02A1-40DC-AC9E-788028B7CAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605225FB-02A1-40DC-AC9E-788028B7CAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605225FB-02A1-40DC-AC9E-788028B7CAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605225FB-02A1-40DC-AC9E-788028B7CAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E098CAA4-0910-4A37-B157-A1C3EC0A0F12}
+	EndGlobalSection
+EndGlobal
